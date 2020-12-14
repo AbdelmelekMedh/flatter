@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:i3ana/http/http.dart';
+import 'package:MelekFlatt/http/http.dart';
 
 
 class Register extends StatefulWidget{

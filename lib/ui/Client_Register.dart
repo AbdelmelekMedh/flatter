@@ -7,7 +7,7 @@ import 'package:flutter/gestures.dart';
 import 'package:path/path.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:i3ana/http/http.dart';
+import 'package:MelekFlatt/http/http.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:dio/dio.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

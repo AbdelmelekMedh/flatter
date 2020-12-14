@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-import 'package:i3ana/ui/service_view.dart';
+import 'package:MelekFlatt/ui/service_view.dart';
 
 class ServiceList extends StatefulWidget {
   @override

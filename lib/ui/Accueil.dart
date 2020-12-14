@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:i3ana/ui/Grid.dart';
-import 'package:i3ana/ui/Home.dart';
-import 'package:i3ana/ui/Login.dart';
-import 'package:i3ana/ui/ProfilePage.dart';
-import 'package:i3ana/ui/service_list.dart';
+import 'package:MelekFlatt/ui/Grid.dart';
+import 'package:MelekFlatt/ui/Home.dart';
+import 'package:MelekFlatt/ui/Login.dart';
+import 'package:MelekFlatt/ui/ProfilePage.dart';
+import 'package:MelekFlatt/ui/service_list.dart';
 
 
 class Accueil extends StatefulWidget{

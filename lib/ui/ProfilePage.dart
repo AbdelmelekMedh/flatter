@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:i3ana/ui/Login.dart';
+import 'package:MelekFlatt/ui/Login.dart';
 
 class ProfilePage extends StatefulWidget {
   @override
